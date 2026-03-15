@@ -17,3 +17,23 @@ This project demonstrates core Object-Oriented Programming (OOP) principles such
 - Monitor logged sustainability activities
 - Review overall campus sustainability progress
 - Maintain system records
+  
+---
+
+## 🧠 OOP Concepts Implemented
+This project demonstrates the **four main pillars of Object-Oriented Programming:**
+- **Encapsulation**
+Data and methods are combined inside classes, protecting sensitive information and controlling access.
+
+- **Inheritance**
+Classes extend other classes to reuse existing code and create hierarchical relationships.
+
+- **Polymorphism**
+Methods behave differently depending on the object calling them.
+
+- **Abstraction**
+Complex logic is hidden from users while exposing only essential functionality.
+
+These concepts help make software more modular, reusable, and easier to maintain.
+
+---
